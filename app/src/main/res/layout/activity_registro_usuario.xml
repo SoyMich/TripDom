@@ -55,6 +55,15 @@
         android:text="Guardar Información"
         android:layout_gravity="center"/>
 
+    <Button
+        android:id="@+id/btnListar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Listar"
+        android:layout_gravity="center"/>
+
+
+
 
 
 
