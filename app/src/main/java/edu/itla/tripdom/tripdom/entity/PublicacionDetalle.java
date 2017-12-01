@@ -18,6 +18,10 @@ public class PublicacionDetalle {
         this.descripcion = descripcion;
     }
 
+    public PublicacionDetalle() {
+
+    }
+
     public int getId() {
         return id;
     }
@@ -49,5 +53,6 @@ public class PublicacionDetalle {
     public void setDescripcion(String descripcion) {
         this.descripcion = descripcion;
     }
+
 
 }
